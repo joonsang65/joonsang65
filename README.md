@@ -1,10 +1,8 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=BFE3F5&height=140&section=header&text=노준상&fontSize=36&fontColor=2F4858&fontAlignY=42&desc=LLM%20%C2%B7%20RAG%20%C2%B7%20Backend%20%C2%B7%20AI%20Evaluation&descSize=15&descAlignY=68"
+  src="https://capsule-render.vercel.app/api?type=waving&color=BFE3F5&height=150&section=header&text=노준상&fontSize=36&fontColor=2F4858&fontAlignY=35&desc=LLM%20%C2%B7%20RAG%20%C2%B7%20Backend%20%C2%B7%20AI%20Evaluation&descSize=15&descAlignY=55"
 />
-
-<br>
 
 <a href="mailto:nohjoonang1@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -17,6 +15,8 @@
 </a>
 
 </div>
+
+<br>
 
 ---
 
@@ -40,13 +40,9 @@ Codeit **AI Engineer Bootcamp** 수료
 
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Evaluation-FF8C00?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-20232A?style=flat-square&logoColor=white"/>
 
-<br>
-
 ### Backend / Data
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square"/>
-
-<br>
 
 ### Application / Tools
 
