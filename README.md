@@ -66,7 +66,7 @@ Codeit **AI Engineer Bootcamp** 수료
 
 ## 🔬 Research
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
