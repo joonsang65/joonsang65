@@ -66,58 +66,6 @@ Codeit **AI Engineer Bootcamp** 수료
 
 ## 🔬 Research
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### YouTube 댓글 기반  
-### 대중의 우울 인식 분석
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/BTM-FF69B4?style=flat-square"/> <img src="https://img.shields.io/badge/Optuna-20232A?style=flat-square"/>
-
-<br><br>
-
-우울 관련 YouTube 영상 **42개**  
-댓글 **74,356건 수집**
-
-전처리 후  
-**55,376건 · 697,053개 단어** 말뭉치 구축
-
-BTM · Optuna 기반  
-**핵심 Topic 4개 도출**
-
-<br>
-
-**한국심리학회 포스터 발표**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 대학생의  
-### 대인관계 소진 연구
-
-<br>
-
-<img src="https://img.shields.io/badge/SPSS-CC0000?style=flat-square"/> <img src="https://img.shields.io/badge/Regression-4169E1?style=flat-square"/> <img src="https://img.shields.io/badge/ANOVA-3FCF8E?style=flat-square"/> <img src="https://img.shields.io/badge/UNIANOVA-F7931E?style=flat-square"/>
-
-<br><br>
-
-대학생 **104명**의  
-설문 데이터 분석
-
-스트레스 대처방식과  
-인구통계학적 변인의 영향 검증
-
-위계적 회귀분석 및  
-분산분석 수행
-
-<br>
-
-**한국심리학회 포스터 발표**
-
-</td>
-</tr>
-</table>
+| YouTube 댓글 기반 대중의 우울 인식 분석 | 대학생의 대인관계 소진 연구 |
+| --- | --- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/BTM-FF69B4?style=flat-square"/> <img src="https://img.shields.io/badge/Optuna-20232A?style=flat-square"/><br><br>우울 관련 YouTube 영상 **42개**<br>댓글 **74,356건 수집**<br><br>전처리 후<br>**55,376건 · 697,053개 단어** 말뭉치 구축<br><br>BTM · Optuna 기반<br>**핵심 Topic 4개 도출**<br><br>**한국심리학회 포스터 발표** | <img src="https://img.shields.io/badge/SPSS-CC0000?style=flat-square"/> <img src="https://img.shields.io/badge/Regression-4169E1?style=flat-square"/> <img src="https://img.shields.io/badge/ANOVA-3FCF8E?style=flat-square"/> <img src="https://img.shields.io/badge/UNIANOVA-F7931E?style=flat-square"/><br><br>대학생 **104명**의<br>설문 데이터 분석<br><br>스트레스 대처방식과<br>인구통계학적 변인의 영향 검증<br><br>위계적 회귀분석 및<br>분산분석 수행<br><br>**한국심리학회 포스터 발표** |
